@@ -1,6 +1,6 @@
 - <b>👋 Hi</b>, I’m @mmehta123
-- 👀 I’m interested Software Developement
-- 🌱 I’m currently pursuing MCA
+- 👀 I’m interested in Software Developement
+- 🌱 Currently I’m  pursuing M.C.A
 - 💞️ I’m looking to collaborate on MERN Stack Projects
 - 📫 Let's connect mohitmehta285@gmail.com
 
